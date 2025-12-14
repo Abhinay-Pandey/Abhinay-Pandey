@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Abhinay-Pandey<br><br>👀 I’m interested in Java and MERN Devlopment<br><br>🌱 I’m currently learning JAVA<br><br>📫 Reach me at Instagram : Just_abhinay
+👋 Hi, I’m @Abhinay-Pandey<br><br>👀 I’m interested in Java and MERN Devlopment<br><br>🌱 I’m currently learning Python<br><br>📫 Reach me at Instagram : Just_abhinay
 
 
 ## 🌐 Socials:
