@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinay%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20Java%20%7C%20MERN%20%7C%20Python&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinay%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20MERN&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhinay+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%2B+MERN+Stack+Engineer+%F0%9F%94%A5;Building+Cool+Stuff+Every+Day+%E2%9C%A8;Open+Source+Enthusiast+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Abhinay+%F0%9F%91%8B;Aspiring+Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+GitHub+Actions+%F0%9F%90%B3;MERN+Stack+%7C+Linux+%7C+CI%2FCD+%F0%9F%9A%80;Top+10+Hackathon+Finalist+%F0%9F%8F%86;Building+%26+Deploying+Cool+Stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
 <p>
@@ -23,19 +23,23 @@
 
 ```java
 class Abhinay extends Developer {
-    String name     = "Abhinay Pandey";
-    String handle   = "@Just_abhinay";
-    String[] stack  = {"Java", "React", "Node.js", "Python"};
-    String focus    = "MERN + Java Full Stack";
-    boolean openToWork  = true;
-    boolean lovesCoding = true;
+    String name      = "Abhinay Pandey";
+    String handle    = "@Just_abhinay";
+    String location  = "Bhopal, Madhya Pradesh 🇮🇳";
+    String degree    = "B.Tech CSE @ OIST (2023–2026)";
 
-    String currentlyLearning() {
-        return "Python 🐍 + Advanced DSA";
-    }
+    String[] cloud   = {"AWS EC2", "S3", "IAM", "Azure Basics"};
+    String[] devops  = {"Docker", "GitHub Actions", "CI/CD", "Bash"};
+    String[] web     = {"React.js", "Node.js", "PHP", "Nginx"};
+    String[] os      = {"Linux (Ubuntu)", "SSH", "User Management"};
+
+    String goal      = "Cloud & DevOps Engineer ☁️";
+    String learning  = "Advanced AWS + Kubernetes + Terraform";
+    String achievement = "Top 10 Finalist – Prayatna 2.0 Hackathon 🏆";
+    boolean openToWork = true;
 
     String funFact() {
-        return "I debug with console.log and no regrets 😄";
+        return "I containerize everything — even my problems 🐳";
     }
 }
 ```
@@ -50,22 +54,23 @@ class Abhinay extends Developer {
 ## 🎮 Developer RPG Stats
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                   ⚔️  ABHINAY PANDEY                    │
-│                   Class: Full Stack Dev                  │
-│                   Level: 🔥 Intermediate+                │
-├─────────────────────────────────────────────────────────┤
-│  💻 JavaScript  ████████████████░░░░  80%               │
-│  ☕ Java        ███████████████░░░░░  75%               │
-│  ⚛️  React       █████████████░░░░░░░  65%               │
-│  🐍 Python      ████████░░░░░░░░░░░░  40% (Learning!)   │
-│  🗄️  Node.js     ██████████████░░░░░░  70%               │
-│  🎨 CSS/UI      ████████████████░░░░  80%               │
-├─────────────────────────────────────────────────────────┤
-│  🏅 BADGES UNLOCKED:                                    │
-│  🚀 Deployer   🔥 Commit Streak   🌟 Open Sourcer       │
-│  ☕ Java Dev   🌐 Web Builder     🤝 Collaborator       │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                    ⚔️  ABHINAY PANDEY                        │
+│              Class: Cloud & DevOps Engineer                   │
+│              Level: 🔥 Intermediate  |  XP: Rising Fast      │
+├──────────────────────────────────────────────────────────────┤
+│  ☁️  AWS (EC2/S3/IAM)  ███████████████░░░░░  75%             │
+│  🐳 Docker             ██████████████░░░░░░  70%             │
+│  🔁 CI/CD & GH Actions ████████████░░░░░░░░  60%             │
+│  🐧 Linux / SSH        █████████████░░░░░░░  65%             │
+│  ⚛️  React + Node.js   ██████████████░░░░░░  70%             │
+│  📜 Bash Scripting     ████████░░░░░░░░░░░░  40% (Growing!)  │
+│  🔐 IAM & Security     ████████████░░░░░░░░  60%             │
+├──────────────────────────────────────────────────────────────┤
+│  🏅 BADGES UNLOCKED:                                         │
+│  🚀 Deployer    🐳 Containerizer   🔥 CI/CD Runner           │
+│  ☁️  Cloud Dev   🐧 Linux Admin    🏆 Hackathon Finalist      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -78,7 +83,7 @@ class Abhinay extends Developer {
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/just_abhinay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/justabhinay)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pandeyabhinay1269@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abhinay-Pandey)
 
 </div>
 
@@ -88,33 +93,53 @@ class Abhinay extends Developer {
 
 <div align="center">
 
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 **Languages**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Web Frameworks**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Cloud & Deployment**
+**Tools & Design**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-**Design & Tools**
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🎖️ Achievement | 📅 |
+|---|---|
+| 🏆 **Top 10 Finalist** – Prayatna 2.0 Hackathon | 2024 |
+| ☁️ **AWS Cloud Technical Essentials** – Coursera | 2024 |
+| 🎓 **B.Tech CSE** – Oriental Institute of Science & Technology | 2023–2026 |
+| 📜 **Diploma CSE** – Govt. Kalaniketan Polytechnic | 2019–2022 |
 
 </div>
 
